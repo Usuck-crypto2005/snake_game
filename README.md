@@ -1,1 +1,1 @@
-i think u need to install pygame for this to work
+u need to install pygame for this to work
